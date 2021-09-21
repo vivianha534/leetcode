@@ -1,0 +1,10 @@
+ stack (LIFO)
+    This is like a dynamic array
+    searching for an arbitrary value in the stack would take linear time
+    insertion - push
+    deletion - pop
+ Queues (FIFO)
+    This is like a linked list
+    insertion - enqueue
+    deletion - dequeue
+ Stacks and Queues have constant time (and space) insertion and deletion
